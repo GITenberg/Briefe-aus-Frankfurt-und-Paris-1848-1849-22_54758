@@ -1,0 +1,27 @@
+_repo: Briefe-aus-Frankfurt-und-Paris-1848-1849-22_54758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raumer, Friedrich von
+    birthdate: 1781
+    deathdate: 1873
+    gutenberg_agent_id: '46117'
+    url: http://www.gutenberg.org/2009/agents/46117
+description: ''
+gutenberg_issued: '2017-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54758'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Germany -- Politics and government -- 1848-1849'
+- !lcsh 'France -- Politics and government -- 1848-1852'
+- !lcsh 'France -- Foreign relations -- Germany'
+- !lcsh 'Germany -- Foreign relations -- France'
+- GITenberg
+title: Briefe aus Frankfurt und Paris 1848-1849 (2/2)
+url: http://www.gutenberg.org/ebooks/54758
